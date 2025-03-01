@@ -1,4 +1,4 @@
-# shared-doctor-care
+
 ## Quickstart (after downloading this project)
 1. Open this project with your favorite editor(IDE), eg: Visual Studio Code
 2. Run the command (to install the node_modules): npm install
